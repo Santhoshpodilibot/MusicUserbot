@@ -60,4 +60,4 @@ en    English
 ```
 ## 🛫 <a name="supports"></a>Supports
 
-For any kind of help join [our support group](https://t.me/musicwithalby).
+For any kind of help join [our support group](https://t.me/newsstreamer).
