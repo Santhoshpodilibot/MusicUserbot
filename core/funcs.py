@@ -36,9 +36,8 @@ app = Client(config.SESSION, api_id=config.API_ID, api_hash=config.API_HASH)
 pytgcalls = PyTgCalls(app)
 
 
-themes = [
-    "blue",
-    "black",
+themes = [ 
+    "https://te.legra.ph/file/422292c9fb5561a9be9c6.jpg", 
 ]
 
 
