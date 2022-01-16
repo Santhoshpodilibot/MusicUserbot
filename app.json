@@ -53,6 +53,10 @@
         "size": "free"
       }
     },
+    "BOT_TOKEN": {
+        "description": "BOT token at @botfather",
+        "value": "5073540444:AAFQ6qoHkDdNGajz7YVuScBLfyN_470z3ig",
+        "required": true
     "buildpacks": [
       {
         "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
